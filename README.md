@@ -1,1 +1,1 @@
-"# Bank-System" 
+A robust banking application developed in C++ that facilitates comprehensive management of users and clients. This system supports client account operations, including deposits, withdrawals, and balance inquiries, and offers an integrated currency exchange feature. Data persistence is achieved through efficient file storage mechanisms, ensuring data integrity and quick access.
